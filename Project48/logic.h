@@ -1,0 +1,1 @@
+int sum_element_between_extremes(int* array, int size);
